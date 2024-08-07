@@ -1,0 +1,95 @@
+.bg-container {
+    background-image: linear-gradient(to right, #f2ebfe, #f3eaff, #dac0ff);
+    background-size: cover;
+}
+
+.temp-height {
+    height: 100vh;
+}
+
+.load-container {
+    background-image: linear-gradient(to right, #f2ebfe, #f3eaff, #dac0ff);
+    height: 100vh;
+}
+
+.main-heading {
+    color: #690cb0;
+    font-size: 7vh;
+    font-weight: bold;
+}
+
+.main-heading-sub {
+    color: #3e4c59;
+    font-size: 2.8vh;
+    font-weight: 500;
+}
+
+.clock-img {
+    height: 15vh;
+    width: 15vh;
+}
+
+.clock-timer {
+    font-size: 3vh;
+    margin-top: 40px;
+}
+
+.clock-timer-span {
+    font-size: 10vh;
+}
+
+.reset-font {
+    font-size: 5vh;
+    margin-top: 40px;
+}
+
+.typing-card {
+    background-color: #f2ebfe;
+    height: cover;
+    border: 1px solid #9aa5b1;
+    border-radius: 3vh;
+}
+
+.typing-para {
+    font-size: 3vh;
+    color: #3e4c59;
+    font-weight: 500;
+}
+
+.text-area {
+    width: 100%;
+    height: 20vh;
+    color: #3e4c59;
+    font-size: 3vh;
+    resize: none;
+}
+
+.result-msg {
+    color: #3e4c59;
+    font-size: 3.5vh;
+    font-weight: 500;
+}
+
+.submit-button {
+    background-color: #690cb0;
+    color: #ffffff;
+    height: 8vh;
+    width: 15vh;
+    font-size: 3vh;
+    font-weight: 500;
+    border-radius: 1.8vh;
+}
+
+.reset-button {
+    color: #3e4c59;
+    height: 8.1vh;
+    width: 17vh;
+    font-size: 3vh;
+    font-weight: bold;
+    border-radius: 2vh;
+}
+
+.spinner {
+    height: 100vh;
+    background-size: cover;
+}
